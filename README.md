@@ -5,8 +5,9 @@ Nombre: Saray Natalia Duarte Florez
 Escriba en maximo 3 o 4 lineas cual es el objetivo del programa.
 
 Respuesta:
-
-Menciona que registra trnasmiciones, analiza si el mensaje es sospechoso, calcula un puntaje y asigna una calificacion
+Menciona que registra trnasmiciones, 
+analiza si el mensaje es sospechoso,
+calcula un puntaje y asigna una calificacion
 
 2. Clase Transmision
 La clase tendra los siguientes atributos:
